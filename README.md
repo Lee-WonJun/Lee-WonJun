@@ -4,6 +4,8 @@ Welcome to my profile! [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge
 
 ![image](https://user-images.githubusercontent.com/10369528/87858472-1a681800-c969-11ea-9de5-c23e563c1cfd.png)
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Lee-WonJun&count_private=true&include_all_commits=true)
+
 I'm Won-Jun Lee, a developer who wants to think deeply and know broadly!
 
 Since I am interested in functional languages, I try to reach F#/clojure beyond C#/kotlin.
