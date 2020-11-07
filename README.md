@@ -14,7 +14,9 @@ Since I am interested in functional languages, I try to reach F#/clojure beyond 
 
 
 ## Find me 🌎:
- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&link=https://see-ro-e.tistory.com/)](https://see-ro-e.tistory.com/)
+ [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=forthebage-square&link=https://see-ro-e.tistory.com/)](https://see-ro-e.tistory.com/)
  
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wonjun-lee-77b109171/)](https://www.linkedin.com/in/wonjun-lee-77b109171/)
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=forthebage-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wonjun-lee-77b109171/)](https://www.linkedin.com/in/wonjun-lee-77b109171/)
+ 
+  [![Notion Badge](https://img.shields.io/badge/-Notion-white?style=forthebage-square&logo=Notion&logoColor=black&link=https://www.notion.so/Hi-there-I-m-Lee-Won-Jun-2cf19519eea445c58f7ea18cd4b21125)](https://www.notion.so/Hi-there-I-m-Lee-Won-Jun-2cf19519eea445c58f7ea18cd4b21125)
 
