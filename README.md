@@ -6,7 +6,7 @@ Welcome to my profile! [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Lee-WonJun&count_private=true&include_all_commits=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-WonJun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-WonJun&layout=compact&hide=css,scss,less)](https://github.com/anuraghazra/github-readme-stats)
 
 I'm Won-Jun Lee, a developer who wants to think deeply and know broadly!
 
