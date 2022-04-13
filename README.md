@@ -12,7 +12,7 @@ I'm Won-Jun Lee, a developer who wants to think deeply and know broadly!
 
 Since I am interested in functional languages, I try to reach F#/clojure beyond C#/kotlin.
 
-[**My philosophy**](https://github.com/Lee-WonJun)
+[**My philosophy**](https://see-ro-e.tistory.com/notice/309)
  
 ## Find me 🌎:
  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=forthebage-square&link=https://see-ro-e.tistory.com/)](https://see-ro-e.tistory.com/)
