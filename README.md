@@ -13,6 +13,9 @@ Welcome to my profile!
 
 
 ## Open Source Contribution
+ㅇ google-gemini/gemini-cli
+-  #4227 Improve altName completion behavior in slash commands
+
 ㅇ spring-projects/spring-ai
 - #1914 Added Line Separator Override Feature to ExtractedTextFormatter
  
