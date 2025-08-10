@@ -12,8 +12,9 @@ Welcome to my profile!
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=forthebage-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wonjun-lee-77b109171/)](https://www.linkedin.com/in/wonjun-lee-77b109171/)
 
 
-## Open Source Contribution
 ㅇ google-gemini/gemini-cli
+-  #5356 Centralize Key Binding Logic and Refactor (Reopen)
+-  #5884 Minor fix: Remove duplicate binding and add complete navigation command
 -  #4227 Improve altName completion behavior in slash commands
 
 ㅇ spring-projects/spring-ai
@@ -32,8 +33,8 @@ Welcome to my profile!
 - #1309 Fix link of mock implementation of the engine
 
 ㅇ Miscellaneous 
-- microsoft/Xaml-Controls-Gallery #295 Added missing closing tag in GridView
-- microsoft/magentic-ui #221 fix: broken link in readme 
+- Microsoft/Xaml-Controls-Gallery #295 Added missing closing tag in GridView
+- microsoft/magentic-ui #221 fix: broken link in readme
 - nnstreamer/nnstreamer #1794 [Android/Api] Add execution bit of gradlew
 - kotest/kotest #1855 Fixed typo in property_testing.md docs
 - Base-org/web # 503 Fix Typo in hardhat.md
