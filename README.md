@@ -11,6 +11,8 @@ Welcome to my profile!
  
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=forthebage-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wonjun-lee-77b109171/)](https://www.linkedin.com/in/wonjun-lee-77b109171/)
 
+ㅇ aws/aws-toolkit-jetbrains
+-  #5960 fix(amazonq): Prevents Q UriError : Validate file URI and fallback to Path.toUri() for WSL
 
 ㅇ google-gemini/gemini-cli
 -  #5356 Centralize Key Binding Logic and Refactor (Reopen)
