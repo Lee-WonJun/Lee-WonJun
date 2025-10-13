@@ -37,6 +37,7 @@ Welcome to my profile!
 - #1309 Fix link of mock implementation of the engine
 
 ㅇ Miscellaneous 
+- toss/overlay-kit #179 feat: Export isClientEnvironment function 
 - Microsoft/Xaml-Controls-Gallery #295 Added missing closing tag in GridView
 - microsoft/magentic-ui #221 fix: broken link in readme
 - nnstreamer/nnstreamer #1794 [Android/Api] Add execution bit of gradlew
