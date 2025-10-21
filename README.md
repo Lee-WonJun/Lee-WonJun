@@ -37,11 +37,12 @@ Welcome to my profile!
 
 ㅇ Miscellaneous 
 - toss/overlay-kit #179 feat: Export isClientEnvironment function
+- nnstreamer/nnstreamer #1794 [Android/Api] Add execution bit of gradlew
+- Azure/azure-functions-openapi-extension #202 Fix broken link in integrate-with-apim.md
 - Microsoft/calculator #1309 Fix link of mock implementation of the engine
 - Microsoft/Xaml-Controls-Gallery #295 Added missing closing tag in GridView
 - microsoft/magentic-ui #221 fix: broken link in readme
-- nnstreamer/nnstreamer #1794 [Android/Api] Add execution bit of gradlew
-- Azure/azure-functions-openapi-extension #202 Fix broken link in integrate-with-apim.md
+- mjul/docjure #89 Fix typo in README.md
 - kotest/kotest #1855 Fixed typo in property_testing.md docs
 - Base-org/web # 503 Fix Typo in hardhat.md
 
