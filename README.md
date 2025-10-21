@@ -33,7 +33,6 @@ Welcome to my profile!
 ㅇ Microsoft/calculator
 - [#1312 Change the initialization time of Radio button's isChecked](https://github.com/microsoft/calculator/pull/1312)
 - [#1316 Null Check in RenderMain::CanRenderPoint](https://github.com/microsoft/calculator/pull/1316)
-- [#1309 Fix link of mock implementation of the engine](https://github.com/microsoft/calculator/pull/1309)
 
 ㅇ Miscellaneous 
 - toss/overlay-kit #179 feat: Export isClientEnvironment function
