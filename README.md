@@ -30,7 +30,7 @@ Welcome to my profile!
 ㅇ Azure/azure-functions-openapi-extension
 - [#234 Support "Base Object (root of all classes)" type](https://github.com/Azure/azure-functions-openapi-extension/pull/234)
  
-ㅇ Microsoft/calculator
+ㅇ microsoft/calculator
 - [#1312 Change the initialization time of Radio button's isChecked](https://github.com/microsoft/calculator/pull/1312)
 - [#1316 Null Check in RenderMain::CanRenderPoint](https://github.com/microsoft/calculator/pull/1316)
 
