@@ -23,7 +23,7 @@ Welcome to my profile!
 ㅇ aws/aws-toolkit-jetbrains
 - [#5960 fix(amazonq): Prevents Q UriError : Validate file URI and fallback to Path.toUri() for WSL](https://github.com/aws/aws-toolkit-jetbrains/pull/5960)
 
-ㅇ Microsoft/PowerToys
+ㅇ microsoft/PowerToys
 - [#42316 [CmdPal] WindowWalker Show the actual window icon instead of the process icon](https://github.com/microsoft/PowerToys/pull/42316)
 - [#11260 [PT Run] Implement quick browser open in PT-run](https://github.com/microsoft/PowerToys/pull/11260)
 
@@ -39,8 +39,8 @@ Welcome to my profile!
 - toss/overlay-kit #179 feat: Export isClientEnvironment function
 - nnstreamer/nnstreamer #1794 [Android/Api] Add execution bit of gradlew
 - Azure/azure-functions-openapi-extension #202 Fix broken link in integrate-with-apim.md
-- Microsoft/calculator #1309 Fix link of mock implementation of the engine
-- Microsoft/Xaml-Controls-Gallery #295 Added missing closing tag in GridView
+- microsoft/calculator #1309 Fix link of mock implementation of the engine
+- microsoft/Xaml-Controls-Gallery #295 Added missing closing tag in GridView
 - microsoft/magentic-ui #221 fix: broken link in readme
 - mjul/docjure #89 Fix typo in README.md
 - kotest/kotest #1855 Fixed typo in property_testing.md docs
