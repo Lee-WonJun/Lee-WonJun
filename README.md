@@ -12,10 +12,6 @@ Welcome to my profile!
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=forthebage-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wonjun-lee-77b109171/)](https://www.linkedin.com/in/wonjun-lee-77b109171/)
 
 ## Open Source Contribution
-
-ㅇ aws/aws-toolkit-jetbrains
-- [#5960 fix(amazonq): Prevents Q UriError : Validate file URI and fallback to Path.toUri() for WSL](https://github.com/aws/aws-toolkit-jetbrains/pull/5960)
-
 ㅇ google-gemini/gemini-cli
 - [#5356 Centralize Key Binding Logic and Refactor (Reopen)](https://github.com/google-gemini/gemini-cli/pull/5356)
 - [#5884 Minor fix: Remove duplicate binding and add complete navigation command](https://github.com/google-gemini/gemini-cli/pull/5884)
@@ -24,24 +20,28 @@ Welcome to my profile!
 ㅇ spring-projects/spring-ai
 - [#1914 Added Line Separator Override Feature to ExtractedTextFormatter](https://github.com/spring-projects/spring-ai/pull/1914)
 
-ㅇ Azure/azure-functions-openapi-extension
-- [#234 Support "Base Object (root of all classes)" type](https://github.com/Azure/azure-functions-openapi-extension/pull/234)
-- [#202 Fix broken link in integrate-with-apim.md](https://github.com/Azure/azure-functions-openapi-extension/pull/202)
+ㅇ aws/aws-toolkit-jetbrains
+- [#5960 fix(amazonq): Prevents Q UriError : Validate file URI and fallback to Path.toUri() for WSL](https://github.com/aws/aws-toolkit-jetbrains/pull/5960)
 
 ㅇ Microsoft/PowerToys
+- [#42316 [CmdPal] WindowWalker Show the actual window icon instead of the process icon](https://github.com/microsoft/PowerToys/pull/42316)
 - [#11260 [PT Run] Implement quick browser open in PT-run](https://github.com/microsoft/PowerToys/pull/11260)
 
+ㅇ Azure/azure-functions-openapi-extension
+- [#234 Support "Base Object (root of all classes)" type](https://github.com/Azure/azure-functions-openapi-extension/pull/234)
+ 
 ㅇ Microsoft/calculator
 - [#1312 Change the initialization time of Radio button's isChecked](https://github.com/microsoft/calculator/pull/1312)
 - [#1316 Null Check in RenderMain::CanRenderPoint](https://github.com/microsoft/calculator/pull/1316)
 - [#1309 Fix link of mock implementation of the engine](https://github.com/microsoft/calculator/pull/1309)
 
-
 ㅇ Miscellaneous 
-- toss/overlay-kit #179 feat: Export isClientEnvironment function 
+- toss/overlay-kit #179 feat: Export isClientEnvironment function
+- Microsoft/calculator #1309 Fix link of mock implementation of the engine
 - Microsoft/Xaml-Controls-Gallery #295 Added missing closing tag in GridView
 - microsoft/magentic-ui #221 fix: broken link in readme
 - nnstreamer/nnstreamer #1794 [Android/Api] Add execution bit of gradlew
+- Azure/azure-functions-openapi-extension #202 Fix broken link in integrate-with-apim.md
 - kotest/kotest #1855 Fixed typo in property_testing.md docs
 - Base-org/web # 503 Fix Typo in hardhat.md
 
