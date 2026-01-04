@@ -1,9 +1,9 @@
 # Hi there! I'm Lee-Won-Jun 👋
 Welcome to my profile! 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Lee-WonJun&count_private=true&include_all_commits=true)
+![Anurag's github stats](https://github-readme-stats-fast.vercel.app/api?username=Lee-WonJun&count_private=true&include_all_commits=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-WonJun&layout=compact&hide=css,scss,less,html&exclude_repo=Parallel-Woard)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Lee-WonJun&layout=compact&hide=css,scss,less,html&exclude_repo=Parallel-Woard)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Find me 🌎:
@@ -48,15 +48,16 @@ Welcome to my profile!
 
 ## Just4Fun
 ### Languages
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lee-WonJun&repo=CobangLang)](https://github.com/Lee-WonJun/CobangLang)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lee-WonJun&repo=Jujutsu-Kaisen-lang)](https://github.com/Lee-WonJun/Jujutsu-Kaisen-lang)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lee-WonJun&repo=LolChatLang)](https://github.com/Lee-WonJun/LolChatLang)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lee-WonJun&repo=KFAlang)](https://github.com/Lee-WonJun/KFAlang)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=Lee-WonJun&repo=CobangLang)](https://github.com/Lee-WonJun/CobangLang)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=Lee-WonJun&repo=Jujutsu-Kaisen-lang)](https://github.com/Lee-WonJun/Jujutsu-Kaisen-lang)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=Lee-WonJun&repo=LolChatLang)](https://github.com/Lee-WonJun/LolChatLang)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=Lee-WonJun&repo=KFAlang)](https://github.com/Lee-WonJun/KFAlang)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=Lee-WonJun&repo=ACE)](https://github.com/Lee-WonJun/ACE)
 
 ### Games / Play
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lee-WonJun&repo=parallel-woard-cljs2)](https://github.com/Lee-WonJun/parallel-woard-cljs2)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lee-WonJun&repo=Parallel-Woard)](https://github.com/Lee-WonJun/Parallel-Woard)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mini-Tech-Meetup&repo=IHFK)](https://github.com/Mini-Tech-Meetup/IHFK)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lee-WonJun&repo=gitdot)](https://github.com/Lee-WonJun/gitdot)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=Lee-WonJun&repo=parallel-woard-cljs2)](https://github.com/Lee-WonJun/parallel-woard-cljs2)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=Lee-WonJun&repo=Parallel-Woard)](https://github.com/Lee-WonJun/Parallel-Woard)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=Mini-Tech-Meetup&repo=IHFK)](https://github.com/Mini-Tech-Meetup/IHFK)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=Lee-WonJun&repo=gitdot)](https://github.com/Lee-WonJun/gitdot)
 
 ### ETC
