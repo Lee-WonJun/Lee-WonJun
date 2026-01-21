@@ -34,6 +34,9 @@ Welcome to my profile!
 - [#1312 Change the initialization time of Radio button's isChecked](https://github.com/microsoft/calculator/pull/1312)
 - [#1316 Null Check in RenderMain::CanRenderPoint](https://github.com/microsoft/calculator/pull/1316)
 
+ㅇ avro-kotlin/avro4k
+- [#426 feat(plugin): Support mapping kotlin properties names to camelCase in generated code](https://github.com/avro-kotlin/avro4k/pull/426)
+
 ㅇ Miscellaneous 
 - toss/overlay-kit #179 feat: Export isClientEnvironment function
 - nnstreamer/nnstreamer #1794 [Android/Api] Add execution bit of gradlew
