@@ -51,6 +51,7 @@ Welcome to my profile!
 
 ## Just4Fun
 ### Languages
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=Lee-WonJun&repo=CobangLang)](https://github.com/Lee-WonJun/swmlang)
 [![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=Lee-WonJun&repo=CobangLang)](https://github.com/Lee-WonJun/CobangLang)
 [![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=Lee-WonJun&repo=Jujutsu-Kaisen-lang)](https://github.com/Lee-WonJun/Jujutsu-Kaisen-lang)
 [![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=Lee-WonJun&repo=LolChatLang)](https://github.com/Lee-WonJun/LolChatLang)
